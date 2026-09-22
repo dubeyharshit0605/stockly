@@ -1,11 +1,4 @@
 # Stockly Backend Beginner Files
-
-This repository contains a small beginner-friendly backend slice from the open-source Stockly project:
-
-https://github.com/Arpit-Maheshwari01/Stockly
-
-The original project is licensed under MIT. The original license is included in this repo as `LICENSE`.
-
 ## Files Included
 
 ### `utils/auth.ts`
